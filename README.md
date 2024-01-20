@@ -3,4 +3,4 @@ A course project that cleans a public dataset and runs various models to predict
 
 All the training happens in [Project.ipynb](Project.ipynb)
 
-A detailed report of this project can be found at [CS473_Classification_Project.pdf](Jellycats_Final_report.pdf)
+A detailed report of this project can be found at [Jellycats_Final_report.pdf](Jellycats_Final_report.pdf)
